@@ -67,7 +67,7 @@ under the License.
     <javaVersion>8</javaVersion>
     <mavenVersion>3.6.3</mavenVersion>
     <checkstyleVersion>8.27</checkstyleVersion>
-    <doxiaVersion>1.9</doxiaVersion>
+    <doxiaVersion>1.9.1</doxiaVersion>
     <sitePluginVersion>3.7.1</sitePluginVersion>
   </properties>
 
